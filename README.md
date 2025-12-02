@@ -10,7 +10,7 @@ git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 
 ### ▶️ 2. Entrar na pasta do projeto
 
-cd SEU_REPOSITORIO
+Faça quantos cd neceçarios ate chegar em cd tarefas-categorias
 
 ### ▶️ 3. Instalar as dependências
 
